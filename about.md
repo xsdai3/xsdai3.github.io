@@ -1,22 +1,16 @@
 ---
 layout: page
-title: About
+title: 关于我们
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+*关注工人！传播马克思主义！*
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
+<div style="text-align:center">
+<h2 >关注我们的公众号</h2>
+<img src="gongzhonghao.jpg" width="50%"></div>
 
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
+<br>
 
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](http://fontawesome.io/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
-
-Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
-
-Thanks for reading!
+<div style="text-align:center">
+<h2>联系我们</h2>
+<img src="weixin.jpg" width="50%"></div>
