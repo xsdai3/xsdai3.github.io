@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               新生代
+url:                 https://xsdai.github.io
 baseurl:             ""
 
 markdown:            kramdown
@@ -16,9 +16,8 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              小新
+  email:             xinsheng.dai@yandex.com
 
 plugins:
   - jekyll-coffeescript
