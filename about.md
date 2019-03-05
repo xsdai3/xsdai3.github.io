@@ -4,6 +4,8 @@ title: 关于我们
 ---
 
 *关注工人！传播马克思主义！*
+<br>
+<br>
 
 <div style="text-align:center">
 <h2 >关注我们的公众号</h2>
