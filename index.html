@@ -12,20 +12,20 @@ title: Home
 <div class="posts">
   
   {% for post in site.posts %}
-  <article class="post">
-    <h1 class="post-title">
+  <article class="post">1
+    <h1 class="post-title">2
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>4
 
-    {{ post.excerpt }}
+    {{ post.excerpt }}3
   </article>
   {% endfor %}
 </div>
-
+5
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item" href="{{ paginator.next_page_path | prepend: site.baseurl }}">
