@@ -8,11 +8,11 @@ title: 关于我们
 <br>
 
 <div style="text-align:center">
-<h2 >关注我们的公众号</h2>
+<h3>关注我们的公众号</h3>
 <img src="/images/gongzhonghao.jpg" width="50%"></div>
 
 <br>
 
 <div style="text-align:center">
-<h2>联系我们</h2>
+<h3>联系我们</h3>
 <img src="/images/weixin.jpg" width="50%"></div>
