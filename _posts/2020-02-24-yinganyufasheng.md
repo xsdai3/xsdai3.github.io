@@ -57,5 +57,5 @@ excerpt_separator: <!--more-->
 
 也欢迎大家到xsdai3.github.io了解更多关于新生代三子和尘肺病工人的情况。
 
-<div style="text-align:center"><img src="/images/saomaxsdai3.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/yinganyufasheng.jpg" width="90%"></div>
 
