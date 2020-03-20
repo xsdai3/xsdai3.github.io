@@ -45,8 +45,8 @@ excerpt_separator: <!--more-->
 
 一中午的时间，当事人就写了一份解除律师的声明。声明中再次出现的“非经本人委托，不接受律师代理”的字样让人后背发凉。8月1日，律师陪同柯父去了坪山区检察院，再次分别向坪山区检察院提交《侦察活动监督申请书》。
 
-<div style="text-align:center"><img src="/images/jianchayuan1.png" width="90%"></div>
-<div style="text-align:center"><img src="/images/jianchayuan2.png" width="90%"></div>
+<div style="text-align:center"><img src="/images/jianchayuan1.PNG" width="90%"></div>
+<div style="text-align:center"><img src="/images/jianchayuan2.PNG" width="90%"></div>
 <div style="text-align:center"><img src="/images/jianchayuan3.jpg" width="90%"></div>
 <div style="text-align:center"><img src="/images/jianchayuan4.jpg" width="90%"></div>
 
